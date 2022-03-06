@@ -1,0 +1,2 @@
+# boseApp
+for shared library
